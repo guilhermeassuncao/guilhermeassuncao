@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 Atualmente na Adiante Web como desenvolvedor front-end
+- 💻 Atualmente na Adiante Web como desenvolvedor front-end
 
 - 🎓 Bacharel em Ciência da Computação - Universidade Federal do Espírito Santo (UFES)
 
