@@ -7,5 +7,7 @@
 
 - 🎓 Bacharel em Ciência da Computação - Universidade Federal do Espírito Santo (UFES)
 
+- ⚡ Atualmente estudando JavaScript ES6 e UI Design pela [Origamid](https://www.origamid.com)
+
 - 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 
