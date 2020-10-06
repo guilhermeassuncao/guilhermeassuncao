@@ -3,6 +3,5 @@
 
 <p align="left">
 - 🎓 Bacharel em Ciência da Computação - Universidade Federal do Espírito Santo (UFES)
-
 - 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 <p>
