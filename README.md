@@ -8,7 +8,7 @@
 
 - 🎓 Bacharel em Ciência da Computação - Universidade Federal do Espírito Santo (UFES)
 
-- ⚡ Cursos concluídos, Web Design Completo (HTML5, CSS3 e JavaScript), JavaScript e JQuery e Bootstrap 4 pela [Origamid](https://www.origamid.com)
+- ⚡ Cursos concluídos, Web Design Completo (HTML5, CSS3 e JavaScript) e CSS Avançado Posicionamento pela [Origamid](https://www.origamid.com)
 
 - 🚀 Atualmente estudando JavaScript ES6 e UI Design pela [Origamid](https://www.origamid.com)
 
