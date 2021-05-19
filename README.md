@@ -4,20 +4,20 @@
 
 <br/>
 
-- 💻 Atualmente na Adiante Web como desenvolvedor front-end
+💻 Atualmente na Adiante Web como desenvolvedor front-end
 
-- 🎓 Bacharel em Ciência da Computação - Universidade Federal do Espírito Santo (UFES)
+🎓 Bacharel em Ciência da Computação - Universidade Federal do Espírito Santo (UFES)
 
-- ⚡ Cursos concluídos:
+⚡ Cursos concluídos:
 
   - Web Design Completo (HTML5, CSS3 e JavaScript) - Origamid
   - CSS Avançado Posicionamento (CSS Puro, Flexbox e Bootstrap) - Origamid
   - CSS Flexbox - Origamid
 
 
-- 🚀 Atualmente estudando CSS Grid Layout pela [Origamid](https://www.origamid.com)
+🚀 Atualmente estudando CSS Grid Layout pela [Origamid](https://www.origamid.com)
 
-- 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
+📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 
 <br/>
 
