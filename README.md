@@ -10,9 +10,9 @@
 
 ⚡ Cursos concluídos:
 
-  - Web Design Completo (HTML5, CSS3 e JavaScript) - Origamid
-  - CSS Avançado Posicionamento (CSS Puro, Flexbox e Bootstrap) - Origamid
-  - CSS Flexbox - Origamid
+    - Web Design Completo (HTML5, CSS3 e JavaScript) - Origamid
+    - CSS Avançado Posicionamento (CSS Puro, Flexbox e Bootstrap) - Origamid
+    - CSS Flexbox - Origamid
 
 
 🚀 Atualmente estudando CSS Grid Layout pela [Origamid](https://www.origamid.com)
