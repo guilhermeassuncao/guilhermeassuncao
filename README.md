@@ -13,9 +13,10 @@
     - Web Design Completo (HTML5, CSS3 e JavaScript) - Origamid
     - CSS Avançado Posicionamento (CSS Puro, Flexbox e Bootstrap) - Origamid
     - CSS Flexbox - Origamid
+    - CSS Grid Layout - Origamid
 
 
-🚀 Atualmente estudando CSS Grid Layout pela [Origamid](https://www.origamid.com)
+🚀 Atualmente estudando JavaScript e jQuery pela [Origamid](https://www.origamid.com)
 
 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 
