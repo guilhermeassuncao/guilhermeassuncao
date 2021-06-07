@@ -14,9 +14,10 @@
     - CSS Avançado Posicionamento (CSS Puro, Flexbox e Bootstrap) - Origamid
     - CSS Flexbox - Origamid
     - CSS Grid Layout - Origamid
+    - JavaScript e jQuery - Origamid
 
 
-🚀 Atualmente estudando JavaScript e jQuery pela [Origamid](https://www.origamid.com)
+🚀 Atualmente estudando Bootstrap pela [Origamid](https://www.origamid.com)
 
 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 
