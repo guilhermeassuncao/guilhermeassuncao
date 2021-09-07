@@ -16,9 +16,10 @@
     - CSS Grid Layout - Origamid
     - JavaScript e jQuery - Origamid
     - Bootstrap 4 - Origamid
+    - JavaScript Completo ES6 - Origamid
 
 
-🚀 Atualmente estudando JavaScript Completo ES6 pela [Origamid](https://www.origamid.com)
+🚀 Atualmente estudando Vue.js pela [Origamid](https://www.origamid.com)
 
 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 
