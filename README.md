@@ -17,9 +17,10 @@
     - JavaScript e jQuery - Origamid
     - Bootstrap 4 - Origamid
     - JavaScript Completo ES6 - Origamid
+    - Vue.js - Origamid
 
 
-🚀 Atualmente estudando Vue.js pela [Origamid](https://www.origamid.com)
+🚀 Atualmente estudando CSS com SASS pela [Origamid](https://www.origamid.com)
 
 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 
