@@ -18,9 +18,10 @@
     - Bootstrap 4 - Origamid
     - JavaScript Completo ES6 - Origamid
     - Vue.js - Origamid
+    - CSS com SASS - Origamid
 
 
-🚀 Atualmente estudando CSS com SASS pela [Origamid](https://www.origamid.com)
+🚀 Atualmente estudando Automação Front End com NPM pela [Origamid](https://www.origamid.com)
 
 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 
