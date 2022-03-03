@@ -19,9 +19,10 @@
     - JavaScript Completo ES6 - Origamid
     - Vue.js - Origamid
     - CSS com SASS - Origamid
+    - Automação Front End com NPM - Origamid
 
 
-🚀 Atualmente estudando Automação Front End com NPM pela [Origamid](https://www.origamid.com)
+🚀 Atualmente estudando Vue.js 3 do iniciante ao Avançado pela [Vue.js Brasil](https://treinamento.vuejsbrasil.org/)
 
 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 
