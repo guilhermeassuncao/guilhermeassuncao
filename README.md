@@ -4,7 +4,7 @@
 
 <br/>
 
-💻 Atualmente na Integra Fácil como desenvolvedor front-end
+💻 Atualmente na Integra Fácil como Desenvolvedor Front End | JavaScript | Vue.js e React
 
 🎓 Bacharel em Ciência da Computação - Universidade Federal do Espírito Santo (UFES)
 
@@ -22,7 +22,7 @@
     - Automação Front End com NPM - Origamid
 
 
-🚀 Atualmente estudando Vue.js 3 do iniciante ao Avançado pela [Vue.js Brasil](https://treinamento.vuejsbrasil.org/)
+🚀 Atualmente estudando React Completo pela [Origamid](https://www.origamid.com/)
 
 📫 Como me encontrar: **cgmatosassuncao@gmail.com**
 
